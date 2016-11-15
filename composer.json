@@ -1,6 +1,6 @@
 {
     "name": "weprovide/magento2-module-fix-duplicate",
-    "description": "",
+    "description": "Magento 2 | Fix Duplicate for linked product(s)",
     "authors": [
         {
             "name": "We/Provide",
