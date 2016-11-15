@@ -7,3 +7,5 @@
 
 ## Issue
 [#6957](https://github.com/magento/magento2/issues/6764) Duplicate issue with linked products | [More information](https://github.com/magento/magento2/issues/6764)
+
+Maintained by [We/Provide](https://www.weprovide.com/)
