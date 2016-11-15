@@ -1,4 +1,4 @@
-# Fix Duplicate for linked product(s) | Magento2 Fix Duplicate Module by [We/Provide](https://www.weprovide.com/)
+# Magento2 Fix Duplicate for linked product(s)
 
 ## Installation
 
